@@ -1,4 +1,4 @@
-module ithub.com/kaidev1024/pmaps
+module github.com/kaidev1024/pmap
 
 go 1.23.4
 
