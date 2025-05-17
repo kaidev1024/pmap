@@ -7,11 +7,6 @@ import (
 	"net/url"
 )
 
-type Client struct {
-	BaseURL    string
-	HTTPClient *http.Client
-}
-
 var client *Client
 var params url.Values
 
