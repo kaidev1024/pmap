@@ -1,4 +1,4 @@
-package places
+package pmap
 
 import (
 	"context"
